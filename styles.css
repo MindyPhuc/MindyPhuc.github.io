@@ -376,6 +376,11 @@ h6 { font-size: 16px;}
 	border:none;
 }
 
+#ref {
+	text-align: center;
+	font-size: 0.7em;
+	color: #fff;
+}
 
 @media screen and (max-width: 1200px){
 	.main-container{
